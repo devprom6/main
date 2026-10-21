@@ -150,4 +150,6 @@ Every Pull Request must satisfy the following checklist before being merged:
 
 This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold these standards. 
 
+For protocol vocabulary see [docs/glossary.md](docs/glossary.md).
+
 Please report unacceptable behavior to `conduct@<your-organization-domain>.com`.
